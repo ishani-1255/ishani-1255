@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishika Ishani</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
-<img align="right" https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif width="500" height="320" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-1255&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-1255" /> </p>
 
 - 🌱 I’m currently learning **JAVA**
