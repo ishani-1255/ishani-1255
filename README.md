@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA** and **Data Science**
 - 🔭 Creative-Enthusiastic-Inquisitive
-- ⚡ I’m looking to collaborate on many new and interesting stuffs.
+- ⚡ I’m looking to collaborate on interesting stuffs.
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in learning about different types of software development and new programming languages.
 - 💬 Ask me about anything.I will try to help you as much as I can.
