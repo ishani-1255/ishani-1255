@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ishika Ishani</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-1255&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-1255" /> </p>
-<p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="left" width="500"> </p>
+<p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
 
 - 🌱 I’m currently learning **JAVA** and **Data Science**
 - 🔭 Creative-Enthusiastic-Inquisitive
-- ⚡ I’m looking to collaborate on interesting stuffs.
+- ⚡ I’m looking to collaborate on many new and interesting stuffs.
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in learning about different types of software development and new programming languages.
 - 💬 Ask me about anything.I will try to help you as much as I can.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
