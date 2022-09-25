@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **JAVA** and **Data Science**
 - 🌱 I have learned **HTML** and **CSS**
 - 🔭 Creative-Enthusiastic-Inquisitive
-- ⚡ I’m looking to collaborate on many new and interesting stuffs realted to **HTML** and **CSS**.
+- ⚡ Now-a-days , I’m looking to collaborate on many new and interesting stuffs realted to **HTML** and **CSS**.
 - 😄 Pronouns: She/Her
 - 👀 I’m interested in learning about different types of software development and new programming languages.
 - 💬 Ask me about anything.I will try to help you as much as I can.
