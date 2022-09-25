@@ -4,6 +4,7 @@
 <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
 
 - 🌱 I’m currently learning **JAVA** and **Data Science**
+- 🌱 I have learned **HTML** and **CSS**
 - 🔭 Creative-Enthusiastic-Inquisitive
 - ⚡ I’m looking to collaborate on many new and interesting stuffs.
 - 😄 Pronouns: She/Her
