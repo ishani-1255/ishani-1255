@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishika Ishani</h1>
 <h3 align="center">A Computer Science Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-1255&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-1255" /> </p>
-<p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="500"> </p>
+<p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="400"> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
 - 🔭 Creative-Enthusiastic-Inquisitive
