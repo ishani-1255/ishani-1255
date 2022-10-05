@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/siya_1255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siya_1255" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ishika-ishani-2416b5242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IshikaIshani" height="30" width="40" /></a>
-<a href="https://hashnode.com/@isha11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@IshikaIshani" height="30" width="40" /></a>
+<a href="https://hashnode.com/@IshikaIshani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@IshikaIshani" height="30" width="40" /></a>
 
 </p>
 
