@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-1255&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-1255" /> </p>
 <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="400"> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **React**
 - 🔭 Creative-Enthusiastic-Inquisitive
 
-- ⚡ Now-a-days , I’m looking to collaborate on many new and interesting stuffs realted to **HTML** and **CSS**.
+- ⚡ Now-a-days , I’m looking to collaborate on many new and interesting stuffs realted to **HTML**, **CSS** ** JavaScript**.
 
 - 👀 I’m interested in learning about different types of software development and new programming languages.
 
