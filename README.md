@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React**
 - 🔭 Creative-Enthusiastic-Inquisitive
 
-- ⚡ Now-a-days , I’m looking to collaborate on many new and interesting stuffs realted to **HTML**, **CSS** ** JavaScript**.
+- ⚡ Now-a-days , I’m looking to collaborate on many new and interesting stuffs realted to **HTML**, **CSS** **JavaScript**.
 
 - 👀 I’m interested in learning about different types of software development and new programming languages.
 
