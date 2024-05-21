@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishani-1255&label=Profile%20views&color=0e75b6&style=flat" alt="ishani-1255" /> </p>
 <p align="right"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width="400"> </p>
 
-- 🌱 I’m currently doing **JAVA** and learning **React JS** and **Web3**
+- 🌱 I’m currently doing **JAVA** and learning **Backend Technologies** and **Web3**
 - 🔭 Creative-Enthusiastic-Inquisitive
 
 - ⚡ Now-a-days , I’m looking to collaborate on many new and interesting stuffs realted to **HTML**, **CSS** & **JavaScript**.
